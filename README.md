@@ -23,10 +23,17 @@ This project covers:
 Modern retail stores generate thousands of daily transactions, but raw data alone doesn’t reveal insights.  
 RetailPulse was built to **analyze these transactions** and answer key business questions:
 
-- Which product categories drive the highest revenue?  
-- Who are the top-selling products?  
-- Which regions perform the best in terms of sales and profit?  
-- What is the overall profitability and sales trend?
+## Key Insights from Analysis
+
+After performing detailed analysis on the retail dataset, here are the major findings:
+
+- **Top Revenue Categories** : Electronics and Furniture drive the highest total sales.
+
+- **Top-Selling Products**: Laptops, Smartphones, and Office Chairs are the best performers.
+
+- **Best Performing Regions**: The West and East regions generate the most sales and profit.
+
+- **Overall Trend**: Sales and profit show consistent month-over-month growth with strong profitability margins across top categories.
 
 ---
 
