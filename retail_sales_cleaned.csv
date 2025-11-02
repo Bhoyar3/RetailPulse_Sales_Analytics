@@ -1,0 +1,501 @@
+OrderID,Date,Product,Category,Region,Quantity,Price,Sales,Discount,Profit,NetSales,ProfitMarginPct,Month,MonthName
+ORD1000,2024-04-12,Backpack,Accessories,North,1,158.38,158.38,0.1,49.89,142.54,35.0,4,April
+ORD1001,2024-12-14,Notebook,Stationery,East,1,103.76,103.76,0.0,36.32,103.76,35.0,12,December
+ORD1002,2024-09-27,Office Chair,Furniture,South,1,1055.96,1055.96,0.1,190.07,950.36,20.0,9,September
+ORD1003,2024-04-16,Stapler,Stationery,North,1,50.0,50.0,0.15,14.87,42.5,34.99,4,April
+ORD1004,2024-03-12,Backpack,Accessories,Central,3,183.72,551.16,0.0,192.91,551.16,35.0,3,March
+ORD1005,2024-07-07,Pen Set,Stationery,Central,1,75.28,75.28,0.05,25.03,71.52,35.0,7,July
+ORD1006,2024-01-21,Keyboard,Electronics,North,1,729.28,729.28,0.0,145.86,729.28,20.0,1,January
+ORD1007,2024-04-12,Notebook,Stationery,North,1,251.95,251.95,0.0,88.18,251.95,35.0,4,April
+ORD1008,2024-05-01,Office Chair,Furniture,South,2,897.54,1795.08,0.0,359.02,1795.08,20.0,5,May
+ORD1009,2024-08-02,Coffee Maker,Appliances,Central,1,875.56,875.56,0.05,166.36,831.78,20.0,8,August
+ORD1010,2024-11-26,Notebook,Stationery,Central,2,147.49,294.98,0.0,103.24,294.98,35.0,11,November
+ORD1011,2024-03-28,Office Chair,Furniture,Central,2,814.08,1628.16,0.0,325.63,1628.16,20.0,3,March
+ORD1012,2024-04-09,Keyboard,Electronics,South,3,773.88,2321.64,0.05,441.11,2205.56,20.0,4,April
+ORD1013,2024-12-25,Mouse,Electronics,Central,2,931.85,1863.7,0.0,372.74,1863.7,20.0,12,December
+ORD1014,2024-05-31,Desk Lamp,Furniture,North,3,956.66,2869.98,0.0,574.0,2869.98,20.0,5,May
+ORD1015,2024-05-10,Paper Ream,Stationery,South,2,152.52,305.04,0.0,106.76,305.04,35.0,5,May
+ORD1016,2024-05-29,Printer,Electronics,West,1,838.9,838.9,0.15,142.61,713.06,20.0,5,May
+ORD1017,2024-11-04,Monitor 24inch,Electronics,East,1,784.38,784.38,0.0,156.88,784.38,20.0,11,November
+ORD1018,2024-09-14,Stapler,Stationery,South,1,50.0,50.0,0.0,17.5,50.0,35.0,9,September
+ORD1019,2024-12-09,Paper Ream,Stationery,East,2,50.0,100.0,0.05,33.25,95.0,35.0,12,December
+ORD1020,2024-10-20,Pen Set,Stationery,North,2,148.53,297.06,0.0,103.97,297.06,35.0,10,October
+ORD1021,2024-07-10,Keyboard,Electronics,North,1,692.33,692.33,0.0,138.47,692.33,20.0,7,July
+ORD1022,2024-10-03,Monitor 24inch,Electronics,East,2,700.94,1401.88,0.0,280.38,1401.88,20.0,10,October
+ORD1023,2024-06-09,Water Bottle,Accessories,East,2,111.43,222.86,0.0,78.0,222.86,35.0,6,June
+ORD1024,2024-11-09,Paper Ream,Stationery,North,1,179.4,179.4,0.0,62.79,179.4,35.0,11,November
+ORD1025,2024-01-22,Printer,Electronics,West,2,739.17,1478.34,0.05,280.88,1404.42,20.0,1,January
+ORD1026,2024-09-09,Coffee Maker,Appliances,North,1,626.23,626.23,0.05,118.98,594.92,20.0,9,September
+ORD1027,2024-08-23,Headphones,Electronics,West,3,631.1,1893.3,0.15,321.86,1609.3,20.0,8,August
+ORD1028,2024-12-10,Pen Set,Stationery,Central,2,63.79,127.58,0.05,42.42,121.2,35.0,12,December
+ORD1029,2024-02-18,Desk Lamp,Furniture,Central,1,774.39,774.39,0.0,154.88,774.39,20.0,2,February
+ORD1030,2024-02-28,Headphones,Electronics,East,3,797.72,2393.16,0.0,478.63,2393.16,20.0,2,February
+ORD1031,2024-06-18,Water Bottle,Accessories,South,1,50.0,50.0,0.0,17.5,50.0,35.0,6,June
+ORD1032,2024-07-06,Printer,Electronics,North,1,838.73,838.73,0.05,159.36,796.79,20.0,7,July
+ORD1033,2024-09-27,Notebook,Stationery,South,1,50.73,50.73,0.15,15.09,43.12,35.0,9,September
+ORD1034,2024-07-08,Paper Ream,Stationery,East,1,232.82,232.82,0.0,81.49,232.82,35.0,7,July
+ORD1035,2024-06-23,Pen Set,Stationery,South,4,101.85,407.4,0.0,142.59,407.4,35.0,6,June
+ORD1036,2024-02-20,Desk Organizer,Furniture,North,4,826.89,3307.56,0.0,661.51,3307.56,20.0,2,February
+ORD1037,2024-12-29,Keyboard,Electronics,East,1,801.51,801.51,0.15,136.26,681.28,20.0,12,December
+ORD1038,2024-02-24,Mouse,Electronics,East,1,974.14,974.14,0.0,194.83,974.14,20.0,2,February
+ORD1039,2024-08-31,Stapler,Stationery,East,1,265.11,265.11,0.0,92.79,265.11,35.0,8,August
+ORD1040,2024-11-15,Monitor 24inch,Electronics,South,3,1062.78,3188.34,0.0,637.67,3188.34,20.0,11,November
+ORD1041,2024-05-10,Backpack,Accessories,East,1,53.0,53.0,0.0,18.55,53.0,35.0,5,May
+ORD1042,2024-11-02,Printer,Electronics,North,1,708.9,708.9,0.15,120.51,602.56,20.0,11,November
+ORD1043,2024-05-14,Water Bottle,Accessories,South,5,168.05,840.25,0.0,294.09,840.25,35.0,5,May
+ORD1044,2024-01-21,Coffee Maker,Appliances,South,1,914.05,914.05,0.0,182.81,914.05,20.0,1,January
+ORD1045,2024-11-24,Stapler,Stationery,West,1,80.77,80.77,0.1,25.44,72.69,35.0,11,November
+ORD1046,2024-06-15,Keyboard,Electronics,East,2,641.57,1283.14,0.1,230.97,1154.83,20.0,6,June
+ORD1047,2024-09-30,Headphones,Electronics,Central,2,1019.78,2039.56,0.0,407.91,2039.56,20.0,9,September
+ORD1048,2024-03-29,Office Chair,Furniture,East,1,941.53,941.53,0.15,160.06,800.3,20.0,3,March
+ORD1049,2024-11-11,Desk Organizer,Furniture,North,1,743.7,743.7,0.0,148.74,743.7,20.0,11,November
+ORD1050,2024-01-14,Office Chair,Furniture,North,1,786.26,786.26,0.0,157.25,786.26,20.0,1,January
+ORD1051,2024-08-29,Paper Ream,Stationery,East,1,298.54,298.54,0.0,104.49,298.54,35.0,8,August
+ORD1052,2024-09-21,Keyboard,Electronics,East,2,800.63,1601.26,0.05,304.24,1521.2,20.0,9,September
+ORD1053,2024-12-11,Pen Set,Stationery,South,3,155.64,466.92,0.05,155.25,443.57,35.0,12,December
+ORD1054,2024-02-22,Headphones,Electronics,Central,1,671.89,671.89,0.15,114.22,571.11,20.0,2,February
+ORD1055,2024-12-05,Headphones,Electronics,East,1,782.91,782.91,0.0,156.58,782.91,20.0,12,December
+ORD1056,2024-04-01,Office Chair,Furniture,West,1,615.91,615.91,0.0,123.18,615.91,20.0,4,April
+ORD1057,2024-09-20,Keyboard,Electronics,West,1,953.32,953.32,0.0,190.66,953.32,20.0,9,September
+ORD1058,2024-02-04,Stapler,Stationery,East,2,291.52,583.04,0.0,204.06,583.04,35.0,2,February
+ORD1059,2024-07-24,Stapler,Stationery,South,1,158.1,158.1,0.1,49.8,142.29,35.0,7,July
+ORD1060,2024-03-21,Printer,Electronics,Central,1,877.45,877.45,0.05,166.72,833.58,20.0,3,March
+ORD1061,2024-02-19,Coffee Maker,Appliances,East,1,964.24,964.24,0.0,192.85,964.24,20.0,2,February
+ORD1062,2024-12-25,Printer,Electronics,Central,1,927.01,927.01,0.0,185.4,927.01,20.0,12,December
+ORD1063,2024-01-02,Keyboard,Electronics,Central,1,588.95,588.95,0.1,106.01,530.06,20.0,1,January
+ORD1064,2024-02-23,Keyboard,Electronics,East,1,980.28,980.28,0.0,196.06,980.28,20.0,2,February
+ORD1065,2024-04-15,Office Chair,Furniture,South,1,808.89,808.89,0.1,145.6,728.0,20.0,4,April
+ORD1066,2024-09-16,Coffee Maker,Appliances,West,3,595.59,1786.77,0.0,357.35,1786.77,20.0,9,September
+ORD1067,2024-11-05,Pen Set,Stationery,North,5,143.33,716.65,0.0,250.83,716.65,35.0,11,November
+ORD1068,2024-07-09,Desk Organizer,Furniture,North,1,643.46,643.46,0.0,128.69,643.46,20.0,7,July
+ORD1069,2024-08-05,Stapler,Stationery,South,1,230.36,230.36,0.0,80.63,230.36,35.0,8,August
+ORD1070,2024-02-13,Paper Ream,Stationery,West,1,193.99,193.99,0.0,67.9,193.99,35.0,2,February
+ORD1071,2024-06-10,Water Bottle,Accessories,North,1,50.0,50.0,0.1,15.75,45.0,35.0,6,June
+ORD1072,2024-07-20,Keyboard,Electronics,West,1,681.71,681.71,0.0,136.34,681.71,20.0,7,July
+ORD1073,2024-09-26,Water Bottle,Accessories,West,1,210.49,210.49,0.0,73.67,210.49,35.0,9,September
+ORD1074,2024-12-16,Coffee Maker,Appliances,East,1,787.16,787.16,0.0,157.43,787.16,20.0,12,December
+ORD1075,2024-10-30,Coffee Maker,Appliances,North,1,675.77,675.77,0.0,135.15,675.77,20.0,10,October
+ORD1076,2024-09-27,Backpack,Accessories,North,1,66.03,66.03,0.1,20.8,59.43,35.0,9,September
+ORD1077,2024-08-02,Backpack,Accessories,Central,3,175.68,527.04,0.0,184.46,527.04,35.0,8,August
+ORD1078,2024-09-08,Paper Ream,Stationery,East,1,223.7,223.7,0.0,78.29,223.7,35.0,9,September
+ORD1079,2024-07-08,Paper Ream,Stationery,East,1,240.9,240.9,0.0,84.32,240.9,35.0,7,July
+ORD1080,2024-10-22,Pen Set,Stationery,East,1,50.0,50.0,0.0,17.5,50.0,35.0,10,October
+ORD1081,2024-07-31,Keyboard,Electronics,South,2,964.02,1928.04,0.0,385.61,1928.04,20.0,7,July
+ORD1082,2024-07-26,Mouse,Electronics,North,1,869.19,869.19,0.0,173.84,869.19,20.0,7,July
+ORD1083,2024-08-24,Printer,Electronics,East,1,837.35,837.35,0.0,167.47,837.35,20.0,8,August
+ORD1084,2024-12-03,Coffee Maker,Appliances,South,1,607.23,607.23,0.0,121.45,607.23,20.0,12,December
+ORD1085,2024-02-22,Coffee Maker,Appliances,North,1,824.42,824.42,0.0,164.88,824.42,20.0,2,February
+ORD1086,2024-10-06,Desk Organizer,Furniture,East,1,722.41,722.41,0.0,144.48,722.41,20.0,10,October
+ORD1087,2024-08-04,Desk Organizer,Furniture,Central,2,670.21,1340.42,0.0,268.08,1340.42,20.0,8,August
+ORD1088,2024-09-08,Water Bottle,Accessories,South,1,149.04,149.04,0.0,52.16,149.04,35.0,9,September
+ORD1089,2024-07-06,Stapler,Stationery,East,1,327.59,327.59,0.0,114.66,327.59,35.0,7,July
+ORD1090,2024-02-10,Paper Ream,Stationery,South,2,50.0,100.0,0.0,35.0,100.0,35.0,2,February
+ORD1091,2024-06-05,Coffee Maker,Appliances,Central,1,777.16,777.16,0.0,155.43,777.16,20.0,6,June
+ORD1092,2024-01-15,Headphones,Electronics,North,1,632.17,632.17,0.0,126.43,632.17,20.0,1,January
+ORD1093,2024-10-27,Water Bottle,Accessories,East,1,217.56,217.56,0.0,76.15,217.56,35.0,10,October
+ORD1094,2024-03-05,Mouse,Electronics,North,1,728.91,728.91,0.0,145.78,728.91,20.0,3,March
+ORD1095,2024-12-10,Pen Set,Stationery,East,2,50.0,100.0,0.0,35.0,100.0,35.0,12,December
+ORD1096,2024-11-22,Headphones,Electronics,East,1,832.45,832.45,0.0,166.49,832.45,20.0,11,November
+ORD1097,2024-01-09,Office Chair,Furniture,North,1,793.97,793.97,0.15,134.97,674.87,20.0,1,January
+ORD1098,2024-12-09,Office Chair,Furniture,Central,2,730.79,1461.58,0.0,292.32,1461.58,20.0,12,December
+ORD1099,2024-05-08,Pen Set,Stationery,North,1,240.65,240.65,0.1,75.8,216.58,35.0,5,May
+ORD1100,2024-05-15,Printer,Electronics,West,1,599.67,599.67,0.05,113.94,569.69,20.0,5,May
+ORD1101,2024-03-03,Desk Organizer,Furniture,North,1,865.2,865.2,0.0,173.04,865.2,20.0,3,March
+ORD1102,2024-05-18,Paper Ream,Stationery,Central,1,50.0,50.0,0.0,17.5,50.0,35.0,5,May
+ORD1103,2024-03-21,Paper Ream,Stationery,South,1,155.77,155.77,0.0,54.52,155.77,35.0,3,March
+ORD1104,2024-06-11,Stapler,Stationery,West,1,142.07,142.07,0.0,49.72,142.07,35.0,6,June
+ORD1105,2024-10-15,Coffee Maker,Appliances,South,1,654.68,654.68,0.0,130.94,654.68,20.0,10,October
+ORD1106,2024-09-17,Desk Lamp,Furniture,Central,1,920.76,920.76,0.0,184.15,920.76,20.0,9,September
+ORD1107,2024-08-18,Desk Organizer,Furniture,Central,1,730.77,730.77,0.05,138.85,694.23,20.0,8,August
+ORD1108,2024-02-10,Keyboard,Electronics,South,1,503.4,503.4,0.0,100.68,503.4,20.0,2,February
+ORD1109,2024-01-28,Headphones,Electronics,Central,3,704.37,2113.11,0.05,401.49,2007.45,20.0,1,January
+ORD1110,2024-05-14,Paper Ream,Stationery,South,4,194.54,778.16,0.1,245.12,700.34,35.0,5,May
+ORD1111,2024-07-19,Printer,Electronics,East,1,727.52,727.52,0.0,145.5,727.52,20.0,7,July
+ORD1112,2024-11-23,Keyboard,Electronics,East,2,940.13,1880.26,0.0,376.05,1880.26,20.0,11,November
+ORD1113,2024-09-24,Mouse,Electronics,Central,2,830.53,1661.06,0.0,332.21,1661.06,20.0,9,September
+ORD1114,2024-02-02,Mouse,Electronics,North,1,847.33,847.33,0.0,169.47,847.33,20.0,2,February
+ORD1115,2024-02-17,Office Chair,Furniture,South,1,749.48,749.48,0.0,149.9,749.48,20.0,2,February
+ORD1116,2024-03-02,Pen Set,Stationery,East,2,294.15,588.3,0.0,205.9,588.3,35.0,3,March
+ORD1117,2024-08-03,Notebook,Stationery,Central,1,101.03,101.03,0.0,35.36,101.03,35.0,8,August
+ORD1118,2024-10-19,Coffee Maker,Appliances,South,1,802.21,802.21,0.0,160.44,802.21,20.0,10,October
+ORD1119,2024-04-08,Water Bottle,Accessories,South,2,351.17,702.34,0.0,245.82,702.34,35.0,4,April
+ORD1120,2024-06-20,Notebook,Stationery,North,1,178.27,178.27,0.0,62.39,178.27,35.0,6,June
+ORD1121,2024-12-25,Printer,Electronics,North,3,892.5,2677.5,0.0,535.5,2677.5,20.0,12,December
+ORD1122,2024-08-01,Office Chair,Furniture,North,1,840.62,840.62,0.0,168.12,840.62,20.0,8,August
+ORD1123,2024-02-04,Headphones,Electronics,North,1,750.17,750.17,0.1,135.03,675.15,20.0,2,February
+ORD1124,2024-08-14,Desk Organizer,Furniture,East,2,744.88,1489.76,0.0,297.95,1489.76,20.0,8,August
+ORD1125,2024-04-10,Pen Set,Stationery,Central,2,50.0,100.0,0.0,35.0,100.0,35.0,4,April
+ORD1126,2024-05-10,Office Chair,Furniture,East,1,857.48,857.48,0.0,171.5,857.48,20.0,5,May
+ORD1127,2024-09-13,Backpack,Accessories,West,2,190.04,380.08,0.0,133.03,380.08,35.0,9,September
+ORD1128,2024-01-05,Office Chair,Furniture,Central,2,767.62,1535.24,0.05,291.7,1458.48,20.0,1,January
+ORD1129,2024-08-05,Stapler,Stationery,Central,1,50.0,50.0,0.0,17.5,50.0,35.0,8,August
+ORD1130,2024-09-11,Water Bottle,Accessories,West,2,254.35,508.7,0.0,178.04,508.7,35.0,9,September
+ORD1131,2024-12-24,Office Chair,Furniture,West,1,962.68,962.68,0.0,192.54,962.68,20.0,12,December
+ORD1132,2024-10-09,Paper Ream,Stationery,West,1,50.0,50.0,0.0,17.5,50.0,35.0,10,October
+ORD1133,2024-07-25,Office Chair,Furniture,North,3,979.53,2938.59,0.0,587.72,2938.59,20.0,7,July
+ORD1134,2024-01-15,Pen Set,Stationery,West,1,443.49,443.49,0.0,155.22,443.49,35.0,1,January
+ORD1135,2024-12-11,Monitor 24inch,Electronics,West,2,815.51,1631.02,0.1,293.58,1467.92,20.0,12,December
+ORD1136,2024-02-11,Keyboard,Electronics,West,1,857.72,857.72,0.05,162.97,814.83,20.0,2,February
+ORD1137,2024-06-27,Desk Organizer,Furniture,North,1,826.87,826.87,0.0,165.37,826.87,20.0,6,June
+ORD1138,2024-03-03,Backpack,Accessories,North,1,341.18,341.18,0.1,107.47,307.06,35.0,3,March
+ORD1139,2024-12-17,Notebook,Stationery,West,3,88.65,265.95,0.0,93.08,265.95,35.0,12,December
+ORD1140,2024-08-18,Printer,Electronics,East,1,806.69,806.69,0.0,161.34,806.69,20.0,8,August
+ORD1141,2024-08-28,Paper Ream,Stationery,North,1,281.3,281.3,0.0,98.46,281.3,35.0,8,August
+ORD1142,2024-02-21,Office Chair,Furniture,South,1,678.55,678.55,0.0,135.71,678.55,20.0,2,February
+ORD1143,2024-04-05,Office Chair,Furniture,Central,3,601.42,1804.26,0.0,360.85,1804.26,20.0,4,April
+ORD1144,2024-08-09,Mouse,Electronics,South,1,759.71,759.71,0.0,151.94,759.71,20.0,8,August
+ORD1145,2024-08-18,Keyboard,Electronics,South,1,1000.28,1000.28,0.0,200.06,1000.28,20.0,8,August
+ORD1146,2024-08-24,Desk Lamp,Furniture,West,1,476.37,476.37,0.1,85.75,428.73,20.0,8,August
+ORD1147,2024-05-22,Office Chair,Furniture,North,1,793.48,793.48,0.0,158.7,793.48,20.0,5,May
+ORD1148,2024-06-19,Mouse,Electronics,Central,1,767.73,767.73,0.0,153.55,767.73,20.0,6,June
+ORD1149,2024-01-29,Pen Set,Stationery,North,5,50.0,250.0,0.0,87.5,250.0,35.0,1,January
+ORD1150,2024-02-05,Backpack,Accessories,Central,1,151.67,151.67,0.0,53.08,151.67,35.0,2,February
+ORD1151,2024-01-13,Desk Organizer,Furniture,North,2,797.1,1594.2,0.0,318.84,1594.2,20.0,1,January
+ORD1152,2024-06-08,Pen Set,Stationery,South,1,146.07,146.07,0.0,51.12,146.07,35.0,6,June
+ORD1153,2024-11-22,Stapler,Stationery,West,1,84.79,84.79,0.05,28.19,80.55,35.0,11,November
+ORD1154,2024-07-05,Mouse,Electronics,West,1,481.88,481.88,0.0,96.38,481.88,20.0,7,July
+ORD1155,2024-08-30,Office Chair,Furniture,West,1,930.98,930.98,0.0,186.2,930.98,20.0,8,August
+ORD1156,2024-03-26,Headphones,Electronics,North,1,631.1,631.1,0.0,126.22,631.1,20.0,3,March
+ORD1157,2024-10-10,Stapler,Stationery,West,1,56.66,56.66,0.0,19.83,56.66,35.0,10,October
+ORD1158,2024-03-06,Notebook,Stationery,West,1,262.28,262.28,0.0,91.8,262.28,35.0,3,March
+ORD1159,2024-06-18,Desk Lamp,Furniture,West,1,952.59,952.59,0.0,190.52,952.59,20.0,6,June
+ORD1160,2024-02-14,Desk Lamp,Furniture,West,1,737.06,737.06,0.0,147.41,737.06,20.0,2,February
+ORD1161,2024-03-02,Printer,Electronics,Central,1,858.72,858.72,0.0,171.74,858.72,20.0,3,March
+ORD1162,2024-05-13,Backpack,Accessories,West,1,235.32,235.32,0.05,78.24,223.55,35.0,5,May
+ORD1163,2024-10-10,Stapler,Stationery,South,1,203.31,203.31,0.0,71.16,203.31,35.0,10,October
+ORD1164,2024-01-28,Desk Lamp,Furniture,South,1,871.17,871.17,0.0,174.23,871.17,20.0,1,January
+ORD1165,2024-04-17,Notebook,Stationery,Central,1,112.85,112.85,0.0,39.5,112.85,35.0,4,April
+ORD1166,2024-02-13,Printer,Electronics,Central,1,839.14,839.14,0.0,167.83,839.14,20.0,2,February
+ORD1167,2024-12-05,Notebook,Stationery,East,2,50.0,100.0,0.05,33.25,95.0,35.0,12,December
+ORD1168,2024-10-12,Notebook,Stationery,North,1,65.48,65.48,0.0,22.92,65.48,35.0,10,October
+ORD1169,2024-11-26,Water Bottle,Accessories,West,1,50.0,50.0,0.0,17.5,50.0,35.0,11,November
+ORD1170,2024-05-07,Coffee Maker,Appliances,Central,1,550.17,550.17,0.0,110.03,550.17,20.0,5,May
+ORD1171,2024-12-13,Stapler,Stationery,North,3,353.57,1060.71,0.05,352.69,1007.67,35.0,12,December
+ORD1172,2024-08-18,Coffee Maker,Appliances,North,1,795.48,795.48,0.1,143.19,715.93,20.0,8,August
+ORD1173,2024-07-08,Desk Organizer,Furniture,South,2,932.4,1864.8,0.0,372.96,1864.8,20.0,7,July
+ORD1174,2024-08-12,Pen Set,Stationery,Central,1,186.94,186.94,0.0,65.43,186.94,35.0,8,August
+ORD1175,2024-10-09,Pen Set,Stationery,South,1,50.0,50.0,0.0,17.5,50.0,35.0,10,October
+ORD1176,2024-04-30,Keyboard,Electronics,North,2,802.21,1604.42,0.0,320.88,1604.42,20.0,4,April
+ORD1177,2024-04-25,Headphones,Electronics,Central,1,841.71,841.71,0.0,168.34,841.71,20.0,4,April
+ORD1178,2024-08-20,Office Chair,Furniture,Central,3,823.5,2470.5,0.0,494.1,2470.5,20.0,8,August
+ORD1179,2024-09-15,Water Bottle,Accessories,North,1,50.0,50.0,0.0,17.5,50.0,35.0,9,September
+ORD1180,2024-12-24,Water Bottle,Accessories,North,2,180.72,361.44,0.0,126.5,361.44,35.0,12,December
+ORD1181,2024-07-16,Keyboard,Electronics,Central,1,917.92,917.92,0.0,183.58,917.92,20.0,7,July
+ORD1182,2024-05-16,Water Bottle,Accessories,Central,3,50.0,150.0,0.0,52.5,150.0,35.0,5,May
+ORD1183,2024-11-13,Monitor 24inch,Electronics,East,1,646.45,646.45,0.0,129.29,646.45,20.0,11,November
+ORD1184,2024-06-13,Office Chair,Furniture,East,2,822.41,1644.82,0.0,328.96,1644.82,20.0,6,June
+ORD1185,2024-08-12,Office Chair,Furniture,East,1,709.35,709.35,0.0,141.87,709.35,20.0,8,August
+ORD1186,2024-11-02,Keyboard,Electronics,South,1,682.9,682.9,0.0,136.58,682.9,20.0,11,November
+ORD1187,2024-08-21,Backpack,Accessories,East,1,276.44,276.44,0.0,96.75,276.44,35.0,8,August
+ORD1188,2024-06-20,Mouse,Electronics,East,3,697.0,2091.0,0.0,418.2,2091.0,20.0,6,June
+ORD1189,2024-05-31,Headphones,Electronics,North,1,884.04,884.04,0.0,176.81,884.04,20.0,5,May
+ORD1190,2024-11-10,Notebook,Stationery,West,1,457.21,457.21,0.0,160.02,457.21,35.0,11,November
+ORD1191,2024-06-08,Water Bottle,Accessories,Central,2,138.47,276.94,0.0,96.93,276.94,35.0,6,June
+ORD1192,2024-04-05,Pen Set,Stationery,North,1,145.8,145.8,0.0,51.03,145.8,35.0,4,April
+ORD1193,2024-08-20,Coffee Maker,Appliances,South,1,1012.5,1012.5,0.0,202.5,1012.5,20.0,8,August
+ORD1194,2024-06-28,Coffee Maker,Appliances,East,2,875.89,1751.78,0.0,350.36,1751.78,20.0,6,June
+ORD1195,2024-04-22,Stapler,Stationery,East,1,266.71,266.71,0.0,93.35,266.71,35.0,4,April
+ORD1196,2024-11-13,Headphones,Electronics,North,1,791.07,791.07,0.0,158.21,791.07,20.0,11,November
+ORD1197,2024-02-21,Headphones,Electronics,South,1,874.48,874.48,0.1,157.41,787.03,20.0,2,February
+ORD1198,2024-09-24,Monitor 24inch,Electronics,East,2,867.17,1734.34,0.0,346.87,1734.34,20.0,9,September
+ORD1199,2024-10-21,Stapler,Stationery,West,2,279.69,559.38,0.0,195.78,559.38,35.0,10,October
+ORD1200,2024-04-22,Desk Organizer,Furniture,Central,1,851.55,851.55,0.0,170.31,851.55,20.0,4,April
+ORD1201,2024-04-10,Printer,Electronics,East,1,824.92,824.92,0.1,148.49,742.43,20.0,4,April
+ORD1202,2024-04-22,Water Bottle,Accessories,Central,1,50.0,50.0,0.1,15.75,45.0,35.0,4,April
+ORD1203,2024-03-21,Notebook,Stationery,Central,4,276.38,1105.52,0.1,348.24,994.97,35.0,3,March
+ORD1204,2024-07-05,Desk Lamp,Furniture,North,1,803.4,803.4,0.0,160.68,803.4,20.0,7,July
+ORD1205,2024-04-22,Headphones,Electronics,South,2,803.57,1607.14,0.0,321.43,1607.14,20.0,4,April
+ORD1206,2024-01-02,Desk Lamp,Furniture,North,1,747.86,747.86,0.0,149.57,747.86,20.0,1,January
+ORD1207,2024-05-09,Headphones,Electronics,North,1,762.9,762.9,0.0,152.58,762.9,20.0,5,May
+ORD1208,2024-08-07,Printer,Electronics,Central,2,777.58,1555.16,0.0,311.03,1555.16,20.0,8,August
+ORD1209,2024-02-23,Stapler,Stationery,East,2,97.23,194.46,0.0,68.06,194.46,35.0,2,February
+ORD1210,2024-12-08,Desk Lamp,Furniture,Central,1,832.05,832.05,0.0,166.41,832.05,20.0,12,December
+ORD1211,2024-08-11,Office Chair,Furniture,East,1,906.76,906.76,0.1,163.22,816.08,20.0,8,August
+ORD1212,2024-08-12,Office Chair,Furniture,East,1,809.87,809.87,0.1,145.78,728.88,20.0,8,August
+ORD1213,2024-05-05,Coffee Maker,Appliances,West,2,927.86,1855.72,0.15,315.47,1577.36,20.0,5,May
+ORD1214,2024-05-09,Desk Lamp,Furniture,North,1,737.93,737.93,0.0,147.59,737.93,20.0,5,May
+ORD1215,2024-02-22,Pen Set,Stationery,West,1,319.12,319.12,0.1,100.52,287.21,35.0,2,February
+ORD1216,2024-06-20,Desk Organizer,Furniture,East,5,746.54,3732.7,0.0,746.54,3732.7,20.0,6,June
+ORD1217,2024-08-05,Notebook,Stationery,North,2,324.41,648.82,0.0,227.09,648.82,35.0,8,August
+ORD1218,2024-06-08,Monitor 24inch,Electronics,South,1,638.67,638.67,0.0,127.73,638.67,20.0,6,June
+ORD1219,2024-07-16,Backpack,Accessories,East,1,50.0,50.0,0.0,17.5,50.0,35.0,7,July
+ORD1220,2024-09-03,Stapler,Stationery,West,1,145.84,145.84,0.0,51.04,145.84,35.0,9,September
+ORD1221,2024-11-19,Coffee Maker,Appliances,West,1,828.11,828.11,0.0,165.62,828.11,20.0,11,November
+ORD1222,2024-07-21,Coffee Maker,Appliances,North,3,918.12,2754.36,0.1,495.78,2478.92,20.0,7,July
+ORD1223,2024-07-02,Pen Set,Stationery,North,1,124.32,124.32,0.0,43.51,124.32,35.0,7,July
+ORD1224,2024-05-02,Headphones,Electronics,South,1,819.97,819.97,0.0,163.99,819.97,20.0,5,May
+ORD1225,2024-09-11,Coffee Maker,Appliances,North,1,859.09,859.09,0.0,171.82,859.09,20.0,9,September
+ORD1226,2024-10-20,Desk Organizer,Furniture,East,1,725.22,725.22,0.05,137.79,688.96,20.0,10,October
+ORD1227,2024-10-06,Water Bottle,Accessories,Central,1,83.34,83.34,0.0,29.17,83.34,35.0,10,October
+ORD1228,2024-11-20,Stapler,Stationery,West,4,320.46,1281.84,0.0,448.64,1281.84,35.0,11,November
+ORD1229,2024-04-07,Stapler,Stationery,North,1,81.51,81.51,0.05,27.1,77.43,35.0,4,April
+ORD1230,2024-07-16,Desk Lamp,Furniture,East,1,824.35,824.35,0.0,164.87,824.35,20.0,7,July
+ORD1231,2024-08-27,Headphones,Electronics,North,1,618.11,618.11,0.0,123.62,618.11,20.0,8,August
+ORD1232,2024-05-23,Headphones,Electronics,East,2,726.47,1452.94,0.1,261.53,1307.65,20.0,5,May
+ORD1233,2024-04-06,Office Chair,Furniture,South,4,753.48,3013.92,0.1,542.51,2712.53,20.0,4,April
+ORD1234,2024-07-19,Backpack,Accessories,North,2,229.03,458.06,0.0,160.32,458.06,35.0,7,July
+ORD1235,2024-05-03,Monitor 24inch,Electronics,Central,1,1041.22,1041.22,0.0,208.24,1041.22,20.0,5,May
+ORD1236,2024-07-05,Headphones,Electronics,West,1,796.02,796.02,0.0,159.2,796.02,20.0,7,July
+ORD1237,2024-11-21,Water Bottle,Accessories,South,1,365.35,365.35,0.0,127.87,365.35,35.0,11,November
+ORD1238,2024-12-14,Headphones,Electronics,South,1,798.03,798.03,0.0,159.61,798.03,20.0,12,December
+ORD1239,2024-09-15,Desk Organizer,Furniture,South,1,942.61,942.61,0.05,179.1,895.48,20.0,9,September
+ORD1240,2024-05-27,Paper Ream,Stationery,South,1,231.83,231.83,0.0,81.14,231.83,35.0,5,May
+ORD1241,2024-09-08,Headphones,Electronics,West,2,1021.6,2043.2,0.05,388.21,1941.04,20.0,9,September
+ORD1242,2024-12-11,Notebook,Stationery,South,1,248.46,248.46,0.0,86.96,248.46,35.0,12,December
+ORD1243,2024-05-26,Printer,Electronics,East,1,860.87,860.87,0.0,172.17,860.87,20.0,5,May
+ORD1244,2024-05-27,Paper Ream,Stationery,West,2,129.95,259.9,0.0,90.96,259.9,35.0,5,May
+ORD1245,2024-12-17,Paper Ream,Stationery,South,2,167.61,335.22,0.0,117.33,335.22,35.0,12,December
+ORD1246,2024-07-17,Desk Lamp,Furniture,South,2,803.45,1606.9,0.0,321.38,1606.9,20.0,7,July
+ORD1247,2024-11-03,Paper Ream,Stationery,North,1,303.41,303.41,0.0,106.19,303.41,35.0,11,November
+ORD1248,2024-05-07,Keyboard,Electronics,North,5,636.82,3184.1,0.0,636.82,3184.1,20.0,5,May
+ORD1249,2024-02-08,Desk Organizer,Furniture,West,1,889.55,889.55,0.05,169.01,845.07,20.0,2,February
+ORD1250,2024-12-03,Office Chair,Furniture,South,1,829.93,829.93,0.15,141.09,705.44,20.0,12,December
+ORD1251,2024-12-25,Desk Organizer,Furniture,West,1,989.29,989.29,0.0,197.86,989.29,20.0,12,December
+ORD1252,2024-05-08,Monitor 24inch,Electronics,East,3,746.43,2239.29,0.0,447.86,2239.29,20.0,5,May
+ORD1253,2024-09-23,Desk Organizer,Furniture,South,2,823.29,1646.58,0.0,329.32,1646.58,20.0,9,September
+ORD1254,2024-05-30,Office Chair,Furniture,North,1,943.41,943.41,0.0,188.68,943.41,20.0,5,May
+ORD1255,2024-10-24,Backpack,Accessories,South,2,50.0,100.0,0.15,29.75,85.0,35.0,10,October
+ORD1256,2024-04-08,Keyboard,Electronics,East,4,732.93,2931.72,0.05,557.03,2785.13,20.0,4,April
+ORD1257,2024-09-19,Desk Lamp,Furniture,North,1,845.27,845.27,0.0,169.05,845.27,20.0,9,September
+ORD1258,2024-09-08,Paper Ream,Stationery,East,1,337.86,337.86,0.0,118.25,337.86,35.0,9,September
+ORD1259,2024-05-23,Monitor 24inch,Electronics,Central,1,792.11,792.11,0.0,158.42,792.11,20.0,5,May
+ORD1260,2024-12-11,Keyboard,Electronics,Central,5,626.24,3131.2,0.0,626.24,3131.2,20.0,12,December
+ORD1261,2024-04-21,Monitor 24inch,Electronics,North,2,536.14,1072.28,0.0,214.46,1072.28,20.0,4,April
+ORD1262,2024-02-29,Pen Set,Stationery,East,1,179.26,179.26,0.0,62.74,179.26,35.0,2,February
+ORD1263,2024-01-02,Stapler,Stationery,Central,1,82.31,82.31,0.15,24.49,69.96,35.01,1,January
+ORD1264,2024-10-30,Desk Lamp,Furniture,North,1,878.02,878.02,0.0,175.6,878.02,20.0,10,October
+ORD1265,2024-09-10,Pen Set,Stationery,Central,1,138.1,138.1,0.0,48.33,138.1,35.0,9,September
+ORD1266,2024-05-19,Keyboard,Electronics,East,1,794.53,794.53,0.1,143.02,715.08,20.0,5,May
+ORD1267,2024-02-06,Printer,Electronics,East,1,829.2,829.2,0.0,165.84,829.2,20.0,2,February
+ORD1268,2024-06-08,Keyboard,Electronics,Central,1,649.82,649.82,0.1,116.97,584.84,20.0,6,June
+ORD1269,2024-01-09,Coffee Maker,Appliances,North,1,973.25,973.25,0.15,165.45,827.26,20.0,1,January
+ORD1270,2024-08-20,Keyboard,Electronics,Central,1,841.13,841.13,0.05,159.81,799.07,20.0,8,August
+ORD1271,2024-04-08,Office Chair,Furniture,East,2,854.81,1709.62,0.05,324.83,1624.14,20.0,4,April
+ORD1272,2024-05-26,Notebook,Stationery,West,1,173.58,173.58,0.05,57.72,164.9,35.0,5,May
+ORD1273,2024-10-30,Notebook,Stationery,Central,1,235.08,235.08,0.0,82.28,235.08,35.0,10,October
+ORD1274,2024-07-26,Headphones,Electronics,Central,1,718.83,718.83,0.0,143.77,718.83,20.0,7,July
+ORD1275,2024-05-10,Backpack,Accessories,South,1,366.11,366.11,0.0,128.14,366.11,35.0,5,May
+ORD1276,2024-05-31,Monitor 24inch,Electronics,West,1,900.88,900.88,0.0,180.18,900.88,20.0,5,May
+ORD1277,2024-02-23,Pen Set,Stationery,East,1,71.69,71.69,0.0,25.09,71.69,35.0,2,February
+ORD1278,2024-04-29,Water Bottle,Accessories,East,1,95.72,95.72,0.0,33.5,95.72,35.0,4,April
+ORD1279,2024-06-09,Backpack,Accessories,North,1,50.0,50.0,0.0,17.5,50.0,35.0,6,June
+ORD1280,2024-04-25,Printer,Electronics,East,2,683.96,1367.92,0.0,273.58,1367.92,20.0,4,April
+ORD1281,2024-03-15,Coffee Maker,Appliances,East,5,794.27,3971.35,0.0,794.27,3971.35,20.0,3,March
+ORD1282,2024-04-22,Backpack,Accessories,West,1,330.41,330.41,0.0,115.64,330.41,35.0,4,April
+ORD1283,2024-04-13,Monitor 24inch,Electronics,West,1,905.28,905.28,0.0,181.06,905.28,20.0,4,April
+ORD1284,2024-12-05,Printer,Electronics,East,1,770.34,770.34,0.0,154.07,770.34,20.0,12,December
+ORD1285,2024-09-10,Coffee Maker,Appliances,South,1,718.16,718.16,0.0,143.63,718.16,20.0,9,September
+ORD1286,2024-08-14,Office Chair,Furniture,West,1,1015.72,1015.72,0.05,192.99,964.93,20.0,8,August
+ORD1287,2024-04-21,Backpack,Accessories,West,1,226.9,226.9,0.0,79.41,226.9,35.0,4,April
+ORD1288,2024-04-08,Backpack,Accessories,South,1,317.92,317.92,0.0,111.27,317.92,35.0,4,April
+ORD1289,2024-06-01,Water Bottle,Accessories,Central,3,260.96,782.88,0.0,274.01,782.88,35.0,6,June
+ORD1290,2024-12-14,Desk Lamp,Furniture,West,1,883.79,883.79,0.05,167.92,839.6,20.0,12,December
+ORD1291,2024-12-03,Coffee Maker,Appliances,North,2,847.22,1694.44,0.0,338.89,1694.44,20.0,12,December
+ORD1292,2024-07-12,Desk Lamp,Furniture,East,2,958.09,1916.18,0.0,383.24,1916.18,20.0,7,July
+ORD1293,2024-11-05,Office Chair,Furniture,West,1,823.71,823.71,0.0,164.74,823.71,20.0,11,November
+ORD1294,2024-06-11,Paper Ream,Stationery,Central,2,71.83,143.66,0.1,45.25,129.29,35.0,6,June
+ORD1295,2024-07-26,Water Bottle,Accessories,East,1,91.93,91.93,0.15,27.35,78.14,35.0,7,July
+ORD1296,2024-06-17,Mouse,Electronics,West,1,862.74,862.74,0.0,172.55,862.74,20.0,6,June
+ORD1297,2024-06-09,Mouse,Electronics,South,1,731.16,731.16,0.0,146.23,731.16,20.0,6,June
+ORD1298,2024-03-08,Coffee Maker,Appliances,West,2,804.56,1609.12,0.0,321.82,1609.12,20.0,3,March
+ORD1299,2024-10-15,Paper Ream,Stationery,South,1,164.4,164.4,0.0,57.54,164.4,35.0,10,October
+ORD1300,2024-10-03,Backpack,Accessories,North,1,119.11,119.11,0.1,37.52,107.2,35.0,10,October
+ORD1301,2024-10-30,Desk Lamp,Furniture,Central,2,599.77,1199.54,0.05,227.91,1139.56,20.0,10,October
+ORD1302,2024-05-14,Backpack,Accessories,Central,1,50.0,50.0,0.15,14.87,42.5,34.99,5,May
+ORD1303,2024-07-13,Monitor 24inch,Electronics,North,1,624.28,624.28,0.1,112.37,561.85,20.0,7,July
+ORD1304,2024-05-07,Desk Organizer,Furniture,South,1,1002.07,1002.07,0.0,200.41,1002.07,20.0,5,May
+ORD1305,2024-02-02,Backpack,Accessories,East,2,94.93,189.86,0.1,59.81,170.87,35.0,2,February
+ORD1306,2024-06-24,Office Chair,Furniture,South,1,878.28,878.28,0.1,158.09,790.45,20.0,6,June
+ORD1307,2024-01-22,Stapler,Stationery,North,1,50.0,50.0,0.0,17.5,50.0,35.0,1,January
+ORD1308,2024-08-25,Notebook,Stationery,South,1,74.93,74.93,0.05,24.91,71.18,35.0,8,August
+ORD1309,2024-06-06,Mouse,Electronics,Central,3,847.5,2542.5,0.0,508.5,2542.5,20.0,6,June
+ORD1310,2024-02-07,Desk Organizer,Furniture,North,1,796.93,796.93,0.0,159.39,796.93,20.0,2,February
+ORD1311,2024-08-17,Mouse,Electronics,West,2,940.73,1881.46,0.0,376.29,1881.46,20.0,8,August
+ORD1312,2024-12-30,Headphones,Electronics,Central,1,937.85,937.85,0.0,187.57,937.85,20.0,12,December
+ORD1313,2024-02-20,Office Chair,Furniture,West,1,591.23,591.23,0.15,100.51,502.55,20.0,2,February
+ORD1314,2024-09-20,Mouse,Electronics,West,1,644.64,644.64,0.05,122.48,612.41,20.0,9,September
+ORD1315,2024-10-09,Office Chair,Furniture,South,1,939.3,939.3,0.15,159.68,798.4,20.0,10,October
+ORD1316,2024-01-27,Backpack,Accessories,North,1,159.22,159.22,0.0,55.73,159.22,35.0,1,January
+ORD1317,2024-08-13,Headphones,Electronics,North,2,646.04,1292.08,0.0,258.42,1292.08,20.0,8,August
+ORD1318,2024-10-03,Paper Ream,Stationery,West,1,330.09,330.09,0.0,115.53,330.09,35.0,10,October
+ORD1319,2024-10-12,Office Chair,Furniture,South,1,902.03,902.03,0.0,180.41,902.03,20.0,10,October
+ORD1320,2024-04-06,Paper Ream,Stationery,Central,2,111.4,222.8,0.05,74.08,211.66,35.0,4,April
+ORD1321,2024-10-10,Mouse,Electronics,North,2,1049.21,2098.42,0.0,419.68,2098.42,20.0,10,October
+ORD1322,2024-11-12,Coffee Maker,Appliances,South,2,768.91,1537.82,0.0,307.56,1537.82,20.0,11,November
+ORD1323,2024-10-30,Headphones,Electronics,North,1,776.44,776.44,0.0,155.29,776.44,20.0,10,October
+ORD1324,2024-05-26,Mouse,Electronics,South,3,887.92,2663.76,0.0,532.75,2663.76,20.0,5,May
+ORD1325,2024-01-04,Paper Ream,Stationery,West,1,140.31,140.31,0.0,49.11,140.31,35.0,1,January
+ORD1326,2024-02-04,Backpack,Accessories,Central,1,259.96,259.96,0.0,90.99,259.96,35.0,2,February
+ORD1327,2024-07-10,Coffee Maker,Appliances,Central,1,841.58,841.58,0.0,168.32,841.58,20.0,7,July
+ORD1328,2024-02-18,Monitor 24inch,Electronics,West,1,932.98,932.98,0.0,186.6,932.98,20.0,2,February
+ORD1329,2024-01-17,Water Bottle,Accessories,Central,1,50.0,50.0,0.15,14.87,42.5,34.99,1,January
+ORD1330,2024-06-20,Keyboard,Electronics,Central,1,725.15,725.15,0.1,130.53,652.64,20.0,6,June
+ORD1331,2024-08-07,Mouse,Electronics,South,1,1029.68,1029.68,0.0,205.94,1029.68,20.0,8,August
+ORD1332,2024-06-06,Printer,Electronics,West,2,818.05,1636.1,0.0,327.22,1636.1,20.0,6,June
+ORD1333,2024-02-15,Mouse,Electronics,East,1,843.8,843.8,0.1,151.88,759.42,20.0,2,February
+ORD1334,2024-01-06,Paper Ream,Stationery,South,1,282.66,282.66,0.0,98.93,282.66,35.0,1,January
+ORD1335,2024-04-08,Desk Organizer,Furniture,East,1,942.44,942.44,0.0,188.49,942.44,20.0,4,April
+ORD1336,2024-08-20,Paper Ream,Stationery,Central,1,186.32,186.32,0.15,55.43,158.37,35.0,8,August
+ORD1337,2024-02-06,Mouse,Electronics,South,1,709.49,709.49,0.15,120.61,603.07,20.0,2,February
+ORD1338,2024-10-06,Desk Lamp,Furniture,West,1,838.56,838.56,0.0,167.71,838.56,20.0,10,October
+ORD1339,2024-12-14,Pen Set,Stationery,East,2,200.63,401.26,0.1,126.4,361.13,35.0,12,December
+ORD1340,2024-10-28,Office Chair,Furniture,East,1,942.74,942.74,0.05,179.12,895.6,20.0,10,October
+ORD1341,2024-06-29,Monitor 24inch,Electronics,East,2,652.69,1305.38,0.05,248.02,1240.11,20.0,6,June
+ORD1342,2024-04-04,Headphones,Electronics,Central,1,781.99,781.99,0.0,156.4,781.99,20.0,4,April
+ORD1343,2024-04-08,Pen Set,Stationery,South,1,165.07,165.07,0.0,57.77,165.07,35.0,4,April
+ORD1344,2024-07-06,Stapler,Stationery,South,1,341.34,341.34,0.0,119.47,341.34,35.0,7,July
+ORD1345,2024-04-25,Keyboard,Electronics,South,1,698.36,698.36,0.0,139.67,698.36,20.0,4,April
+ORD1346,2024-07-09,Printer,Electronics,South,1,997.04,997.04,0.0,199.41,997.04,20.0,7,July
+ORD1347,2024-09-09,Pen Set,Stationery,West,1,271.18,271.18,0.0,94.91,271.18,35.0,9,September
+ORD1348,2024-06-09,Keyboard,Electronics,East,2,500.07,1000.14,0.0,200.03,1000.14,20.0,6,June
+ORD1349,2024-09-12,Coffee Maker,Appliances,West,1,1074.91,1074.91,0.0,214.98,1074.91,20.0,9,September
+ORD1350,2024-11-18,Keyboard,Electronics,North,1,922.71,922.71,0.0,184.54,922.71,20.0,11,November
+ORD1351,2024-05-07,Office Chair,Furniture,West,2,1092.77,2185.54,0.05,415.25,2076.26,20.0,5,May
+ORD1352,2024-01-18,Keyboard,Electronics,Central,2,891.07,1782.14,0.0,356.43,1782.14,20.0,1,January
+ORD1353,2024-10-07,Printer,Electronics,North,3,833.74,2501.22,0.0,500.24,2501.22,20.0,10,October
+ORD1354,2024-08-10,Desk Organizer,Furniture,Central,3,709.52,2128.56,0.0,425.71,2128.56,20.0,8,August
+ORD1355,2024-02-23,Keyboard,Electronics,West,1,766.32,766.32,0.0,153.26,766.32,20.0,2,February
+ORD1356,2024-02-27,Notebook,Stationery,East,1,171.59,171.59,0.0,60.06,171.59,35.0,2,February
+ORD1357,2024-11-18,Desk Lamp,Furniture,West,1,967.04,967.04,0.05,183.74,918.69,20.0,11,November
+ORD1358,2024-12-25,Desk Organizer,Furniture,West,1,682.1,682.1,0.0,136.42,682.1,20.0,12,December
+ORD1359,2024-06-22,Coffee Maker,Appliances,Central,1,773.04,773.04,0.0,154.61,773.04,20.0,6,June
+ORD1360,2024-10-06,Paper Ream,Stationery,Central,1,77.84,77.84,0.0,27.24,77.84,34.99,10,October
+ORD1361,2024-04-23,Headphones,Electronics,South,1,838.37,838.37,0.15,142.52,712.61,20.0,4,April
+ORD1362,2024-10-14,Mouse,Electronics,South,1,826.87,826.87,0.0,165.37,826.87,20.0,10,October
+ORD1363,2024-12-07,Desk Lamp,Furniture,West,1,963.7,963.7,0.15,163.83,819.14,20.0,12,December
+ORD1364,2024-05-30,Mouse,Electronics,North,1,805.86,805.86,0.0,161.17,805.86,20.0,5,May
+ORD1365,2024-05-06,Keyboard,Electronics,East,1,804.87,804.87,0.0,160.97,804.87,20.0,5,May
+ORD1366,2024-06-03,Backpack,Accessories,West,1,50.0,50.0,0.05,16.62,47.5,34.99,6,June
+ORD1367,2024-09-29,Printer,Electronics,South,1,716.85,716.85,0.05,136.2,681.01,20.0,9,September
+ORD1368,2024-04-13,Desk Organizer,Furniture,West,1,719.18,719.18,0.0,143.84,719.18,20.0,4,April
+ORD1369,2024-10-25,Headphones,Electronics,South,1,833.48,833.48,0.0,166.7,833.48,20.0,10,October
+ORD1370,2024-09-02,Water Bottle,Accessories,Central,1,226.05,226.05,0.0,79.12,226.05,35.0,9,September
+ORD1371,2024-06-24,Notebook,Stationery,West,1,199.66,199.66,0.0,69.88,199.66,35.0,6,June
+ORD1372,2024-02-08,Water Bottle,Accessories,Central,1,265.67,265.67,0.0,92.98,265.67,35.0,2,February
+ORD1373,2024-06-18,Backpack,Accessories,North,1,415.26,415.26,0.0,145.34,415.26,35.0,6,June
+ORD1374,2024-09-03,Pen Set,Stationery,West,1,53.56,53.56,0.0,18.75,53.56,35.01,9,September
+ORD1375,2024-01-26,Stapler,Stationery,West,2,346.69,693.38,0.0,242.68,693.38,35.0,1,January
+ORD1376,2024-12-20,Stapler,Stationery,North,5,218.28,1091.4,0.0,381.99,1091.4,35.0,12,December
+ORD1377,2024-11-01,Desk Lamp,Furniture,West,1,995.41,995.41,0.0,199.08,995.41,20.0,11,November
+ORD1378,2024-01-13,Monitor 24inch,Electronics,South,2,730.2,1460.4,0.0,292.08,1460.4,20.0,1,January
+ORD1379,2024-11-11,Mouse,Electronics,East,1,678.23,678.23,0.0,135.65,678.23,20.0,11,November
+ORD1380,2024-11-08,Monitor 24inch,Electronics,West,1,828.05,828.05,0.1,149.05,745.24,20.0,11,November
+ORD1381,2024-02-05,Desk Lamp,Furniture,West,1,613.29,613.29,0.0,122.66,613.29,20.0,2,February
+ORD1382,2024-06-21,Desk Lamp,Furniture,North,1,947.32,947.32,0.15,161.04,805.22,20.0,6,June
+ORD1383,2024-01-20,Mouse,Electronics,North,1,654.84,654.84,0.0,130.97,654.84,20.0,1,January
+ORD1384,2024-11-16,Printer,Electronics,Central,2,715.4,1430.8,0.0,286.16,1430.8,20.0,11,November
+ORD1385,2024-09-20,Notebook,Stationery,East,4,143.31,573.24,0.0,200.63,573.24,35.0,9,September
+ORD1386,2024-05-21,Office Chair,Furniture,North,1,820.32,820.32,0.0,164.06,820.32,20.0,5,May
+ORD1387,2024-05-22,Paper Ream,Stationery,North,1,50.0,50.0,0.05,16.62,47.5,34.99,5,May
+ORD1388,2024-04-01,Paper Ream,Stationery,North,1,280.96,280.96,0.1,88.5,252.86,35.0,4,April
+ORD1389,2024-12-19,Office Chair,Furniture,South,1,873.1,873.1,0.0,174.62,873.1,20.0,12,December
+ORD1390,2024-11-17,Desk Organizer,Furniture,North,1,945.57,945.57,0.0,189.11,945.57,20.0,11,November
+ORD1391,2024-10-14,Water Bottle,Accessories,South,1,167.01,167.01,0.0,58.45,167.01,35.0,10,October
+ORD1392,2024-08-02,Office Chair,Furniture,South,2,816.02,1632.04,0.05,310.09,1550.44,20.0,8,August
+ORD1393,2024-12-07,Mouse,Electronics,North,2,781.7,1563.4,0.0,312.68,1563.4,20.0,12,December
+ORD1394,2024-02-20,Water Bottle,Accessories,South,1,55.68,55.68,0.0,19.49,55.68,35.0,2,February
+ORD1395,2024-06-01,Mouse,Electronics,East,3,640.25,1920.75,0.0,384.15,1920.75,20.0,6,June
+ORD1396,2024-07-04,Paper Ream,Stationery,East,1,50.0,50.0,0.0,17.5,50.0,35.0,7,July
+ORD1397,2024-03-03,Stapler,Stationery,Central,1,50.0,50.0,0.1,15.75,45.0,35.0,3,March
+ORD1398,2024-07-08,Water Bottle,Accessories,North,1,159.82,159.82,0.0,55.94,159.82,35.0,7,July
+ORD1399,2024-05-04,Paper Ream,Stationery,South,2,138.13,276.26,0.1,87.02,248.63,35.0,5,May
+ORD1400,2024-05-29,Desk Lamp,Furniture,North,2,719.83,1439.66,0.0,287.93,1439.66,20.0,5,May
+ORD1401,2024-11-09,Water Bottle,Accessories,North,1,269.05,269.05,0.0,94.17,269.05,35.0,11,November
+ORD1402,2024-02-27,Headphones,Electronics,East,1,803.38,803.38,0.0,160.68,803.38,20.0,2,February
+ORD1403,2024-12-07,Water Bottle,Accessories,West,2,148.91,297.82,0.0,104.24,297.82,35.0,12,December
+ORD1404,2024-10-31,Keyboard,Electronics,South,2,797.0,1594.0,0.0,318.8,1594.0,20.0,10,October
+ORD1405,2024-06-28,Pen Set,Stationery,Central,2,248.13,496.26,0.0,173.69,496.26,35.0,6,June
+ORD1406,2024-06-18,Printer,Electronics,South,1,672.19,672.19,0.0,134.44,672.19,20.0,6,June
+ORD1407,2024-11-21,Pen Set,Stationery,East,1,113.37,113.37,0.0,39.68,113.37,35.0,11,November
+ORD1408,2024-09-27,Desk Organizer,Furniture,Central,1,806.8,806.8,0.15,137.16,685.78,20.0,9,September
+ORD1409,2024-02-23,Paper Ream,Stationery,North,1,213.56,213.56,0.0,74.75,213.56,35.0,2,February
+ORD1410,2024-04-10,Paper Ream,Stationery,Central,1,50.0,50.0,0.0,17.5,50.0,35.0,4,April
+ORD1411,2024-09-20,Paper Ream,Stationery,North,1,132.71,132.71,0.0,46.45,132.71,35.0,9,September
+ORD1412,2024-02-22,Monitor 24inch,Electronics,Central,1,774.39,774.39,0.0,154.88,774.39,20.0,2,February
+ORD1413,2024-02-29,Keyboard,Electronics,East,5,978.89,4894.45,0.0,978.89,4894.45,20.0,2,February
+ORD1414,2024-04-17,Pen Set,Stationery,Central,1,76.39,76.39,0.0,26.74,76.39,35.0,4,April
+ORD1415,2024-01-05,Backpack,Accessories,East,1,113.7,113.7,0.0,39.8,113.7,35.0,1,January
+ORD1416,2024-04-12,Notebook,Stationery,West,5,202.43,1012.15,0.0,354.25,1012.15,35.0,4,April
+ORD1417,2024-07-14,Desk Organizer,Furniture,West,1,942.88,942.88,0.0,188.58,942.88,20.0,7,July
+ORD1418,2024-09-18,Pen Set,Stationery,West,1,50.0,50.0,0.0,17.5,50.0,35.0,9,September
+ORD1419,2024-12-30,Monitor 24inch,Electronics,West,1,773.03,773.03,0.05,146.88,734.38,20.0,12,December
+ORD1420,2024-12-15,Printer,Electronics,South,2,730.82,1461.64,0.0,292.33,1461.64,20.0,12,December
+ORD1421,2024-02-16,Keyboard,Electronics,South,1,489.07,489.07,0.05,92.92,464.62,20.0,2,February
+ORD1422,2024-12-20,Printer,Electronics,Central,1,622.53,622.53,0.0,124.51,622.53,20.0,12,December
+ORD1423,2024-11-06,Backpack,Accessories,East,1,172.0,172.0,0.15,51.17,146.2,35.0,11,November
+ORD1424,2024-11-03,Water Bottle,Accessories,Central,2,148.16,296.32,0.0,103.71,296.32,35.0,11,November
+ORD1425,2024-05-23,Paper Ream,Stationery,West,1,219.51,219.51,0.0,76.83,219.51,35.0,5,May
+ORD1426,2024-09-25,Mouse,Electronics,West,2,796.72,1593.44,0.0,318.69,1593.44,20.0,9,September
+ORD1427,2024-05-03,Desk Organizer,Furniture,Central,1,688.01,688.01,0.05,130.72,653.61,20.0,5,May
+ORD1428,2024-04-15,Desk Lamp,Furniture,East,1,635.37,635.37,0.0,127.07,635.37,20.0,4,April
+ORD1429,2024-06-06,Desk Organizer,Furniture,South,2,606.37,1212.74,0.1,218.29,1091.47,20.0,6,June
+ORD1430,2024-05-26,Desk Organizer,Furniture,North,4,719.71,2878.84,0.0,575.77,2878.84,20.0,5,May
+ORD1431,2024-05-24,Desk Lamp,Furniture,West,1,924.79,924.79,0.0,184.96,924.79,20.0,5,May
+ORD1432,2024-04-29,Office Chair,Furniture,West,2,1058.88,2117.76,0.0,423.55,2117.76,20.0,4,April
+ORD1433,2024-11-14,Water Bottle,Accessories,Central,2,77.31,154.62,0.0,54.12,154.62,35.0,11,November
+ORD1434,2024-10-01,Backpack,Accessories,West,1,153.84,153.84,0.0,53.84,153.84,35.0,10,October
+ORD1435,2024-04-01,Monitor 24inch,Electronics,North,2,709.59,1419.18,0.0,283.84,1419.18,20.0,4,April
+ORD1436,2024-02-27,Mouse,Electronics,East,1,756.16,756.16,0.0,151.23,756.16,20.0,2,February
+ORD1437,2024-12-11,Stapler,Stationery,West,1,172.16,172.16,0.15,51.22,146.34,35.0,12,December
+ORD1438,2024-08-16,Office Chair,Furniture,East,2,638.34,1276.68,0.0,255.34,1276.68,20.0,8,August
+ORD1439,2024-04-26,Paper Ream,Stationery,East,2,50.0,100.0,0.0,35.0,100.0,35.0,4,April
+ORD1440,2024-11-13,Monitor 24inch,Electronics,East,1,942.28,942.28,0.0,188.46,942.28,20.0,11,November
+ORD1441,2024-10-05,Headphones,Electronics,Central,1,886.27,886.27,0.0,177.25,886.27,20.0,10,October
+ORD1442,2024-05-06,Printer,Electronics,East,4,919.53,3678.12,0.0,735.62,3678.12,20.0,5,May
+ORD1443,2024-05-08,Coffee Maker,Appliances,North,1,709.18,709.18,0.0,141.84,709.18,20.0,5,May
+ORD1444,2024-02-27,Coffee Maker,Appliances,South,1,959.38,959.38,0.0,191.88,959.38,20.0,2,February
+ORD1445,2024-05-01,Pen Set,Stationery,South,1,216.75,216.75,0.0,75.86,216.75,35.0,5,May
+ORD1446,2024-01-01,Printer,Electronics,West,4,722.78,2891.12,0.15,491.49,2457.45,20.0,1,January
+ORD1447,2024-08-26,Mouse,Electronics,Central,1,911.34,911.34,0.0,182.27,911.34,20.0,8,August
+ORD1448,2024-10-16,Paper Ream,Stationery,South,2,214.6,429.2,0.0,150.22,429.2,35.0,10,October
+ORD1449,2024-04-05,Printer,Electronics,West,1,928.7,928.7,0.1,167.17,835.83,20.0,4,April
+ORD1450,2024-05-05,Backpack,Accessories,West,1,50.0,50.0,0.0,17.5,50.0,35.0,5,May
+ORD1451,2024-04-27,Mouse,Electronics,North,1,564.04,564.04,0.1,101.53,507.64,20.0,4,April
+ORD1452,2024-02-17,Pen Set,Stationery,East,1,123.45,123.45,0.1,38.89,111.1,35.0,2,February
+ORD1453,2024-03-29,Office Chair,Furniture,West,1,766.78,766.78,0.0,153.36,766.78,20.0,3,March
+ORD1454,2024-08-24,Printer,Electronics,South,2,779.95,1559.9,0.05,296.38,1481.9,20.0,8,August
+ORD1455,2024-09-28,Desk Lamp,Furniture,Central,1,833.91,833.91,0.05,158.44,792.21,20.0,9,September
+ORD1456,2024-07-07,Monitor 24inch,Electronics,West,2,879.55,1759.1,0.0,351.82,1759.1,20.0,7,July
+ORD1457,2024-07-10,Coffee Maker,Appliances,Central,1,940.82,940.82,0.15,159.94,799.7,20.0,7,July
+ORD1458,2024-03-09,Monitor 24inch,Electronics,West,3,847.96,2543.88,0.05,483.34,2416.69,20.0,3,March
+ORD1459,2024-10-04,Printer,Electronics,Central,1,721.84,721.84,0.0,144.37,721.84,20.0,10,October
+ORD1460,2024-12-14,Monitor 24inch,Electronics,East,2,837.06,1674.12,0.0,334.82,1674.12,20.0,12,December
+ORD1461,2024-09-03,Printer,Electronics,West,1,1004.27,1004.27,0.0,200.85,1004.27,20.0,9,September
+ORD1462,2024-03-16,Desk Lamp,Furniture,East,1,890.4,890.4,0.0,178.08,890.4,20.0,3,March
+ORD1463,2024-06-02,Desk Lamp,Furniture,South,2,845.74,1691.48,0.0,338.3,1691.48,20.0,6,June
+ORD1464,2024-05-23,Pen Set,Stationery,South,1,124.92,124.92,0.05,41.54,118.67,35.0,5,May
+ORD1465,2024-03-26,Monitor 24inch,Electronics,North,1,697.94,697.94,0.0,139.59,697.94,20.0,3,March
+ORD1466,2024-07-03,Printer,Electronics,Central,2,656.49,1312.98,0.0,262.6,1312.98,20.0,7,July
+ORD1467,2024-10-11,Paper Ream,Stationery,South,2,203.35,406.7,0.0,142.34,406.7,35.0,10,October
+ORD1468,2024-08-07,Office Chair,Furniture,South,1,705.81,705.81,0.15,119.99,599.94,20.0,8,August
+ORD1469,2024-03-09,Printer,Electronics,West,1,877.79,877.79,0.0,175.56,877.79,20.0,3,March
+ORD1470,2024-02-16,Desk Lamp,Furniture,Central,1,886.69,886.69,0.15,150.74,753.69,20.0,2,February
+ORD1471,2024-04-03,Paper Ream,Stationery,Central,1,105.26,105.26,0.0,36.84,105.26,35.0,4,April
+ORD1472,2024-08-25,Water Bottle,Accessories,East,2,176.96,353.92,0.0,123.87,353.92,35.0,8,August
+ORD1473,2024-07-22,Pen Set,Stationery,South,1,261.91,261.91,0.0,91.67,261.91,35.0,7,July
+ORD1474,2024-08-05,Desk Lamp,Furniture,South,1,616.92,616.92,0.05,117.21,586.07,20.0,8,August
+ORD1475,2024-12-06,Monitor 24inch,Electronics,South,1,951.51,951.51,0.0,190.3,951.51,20.0,12,December
+ORD1476,2024-02-08,Desk Lamp,Furniture,North,1,732.29,732.29,0.0,146.46,732.29,20.0,2,February
+ORD1477,2024-04-09,Printer,Electronics,Central,1,822.15,822.15,0.0,164.43,822.15,20.0,4,April
+ORD1478,2024-10-15,Stapler,Stationery,East,1,272.89,272.89,0.0,95.51,272.89,35.0,10,October
+ORD1479,2024-09-10,Notebook,Stationery,North,2,221.1,442.2,0.0,154.77,442.2,35.0,9,September
+ORD1480,2024-08-09,Coffee Maker,Appliances,East,1,779.58,779.58,0.05,148.12,740.6,20.0,8,August
+ORD1481,2024-12-22,Printer,Electronics,South,2,745.61,1491.22,0.05,283.33,1416.66,20.0,12,December
+ORD1482,2024-01-23,Backpack,Accessories,West,1,50.0,50.0,0.0,17.5,50.0,35.0,1,January
+ORD1483,2024-09-06,Pen Set,Stationery,North,1,126.76,126.76,0.0,44.37,126.76,35.0,9,September
+ORD1484,2024-01-10,Water Bottle,Accessories,East,1,331.61,331.61,0.15,98.65,281.87,35.0,1,January
+ORD1485,2024-09-02,Mouse,Electronics,West,3,875.7,2627.1,0.0,525.42,2627.1,20.0,9,September
+ORD1486,2024-11-20,Mouse,Electronics,East,1,946.52,946.52,0.0,189.3,946.52,20.0,11,November
+ORD1487,2024-04-09,Stapler,Stationery,North,1,219.85,219.85,0.05,73.1,208.86,35.0,4,April
+ORD1488,2024-10-16,Desk Lamp,Furniture,West,1,1026.15,1026.15,0.0,205.23,1026.15,20.0,10,October
+ORD1489,2024-06-28,Pen Set,Stationery,North,1,335.19,335.19,0.0,117.32,335.19,35.0,6,June
+ORD1490,2024-08-10,Keyboard,Electronics,West,1,816.91,816.91,0.0,163.38,816.91,20.0,8,August
+ORD1491,2024-09-06,Pen Set,Stationery,Central,3,50.0,150.0,0.0,52.5,150.0,35.0,9,September
+ORD1492,2024-05-26,Backpack,Accessories,North,1,211.63,211.63,0.0,74.07,211.63,35.0,5,May
+ORD1493,2024-04-05,Stapler,Stationery,South,1,86.08,86.08,0.0,30.13,86.08,35.0,4,April
+ORD1494,2024-09-13,Paper Ream,Stationery,Central,1,146.7,146.7,0.0,51.34,146.7,35.0,9,September
+ORD1495,2024-11-20,Desk Lamp,Furniture,North,2,1012.67,2025.34,0.05,384.81,1924.07,20.0,11,November
+ORD1496,2024-01-04,Office Chair,Furniture,North,1,680.19,680.19,0.05,129.24,646.18,20.0,1,January
+ORD1497,2024-01-16,Coffee Maker,Appliances,West,1,836.22,836.22,0.15,142.16,710.79,20.0,1,January
+ORD1498,2024-10-06,Water Bottle,Accessories,Central,1,137.98,137.98,0.0,48.29,137.98,35.0,10,October
+ORD1499,2024-12-01,Paper Ream,Stationery,Central,1,125.56,125.56,0.1,39.55,113.0,35.0,12,December
