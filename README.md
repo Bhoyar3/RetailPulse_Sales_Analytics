@@ -19,11 +19,10 @@ This project covers:
 
 ---
 
-## Problem Statement
+## Key Insights from Analysis
+
 Modern retail stores generate thousands of daily transactions, but raw data alone doesn’t reveal insights.  
 RetailPulse was built to **analyze these transactions** and answer key business questions:
-
-## Key Insights from Analysis
 
 After performing detailed analysis on the retail dataset, here are the major findings:
 
